@@ -12,6 +12,7 @@ We write about how we make it on [the Cobo Makes Games blog](https://cobomakesga
 | [Screen Shake](https://github.com/Cobo-Makes-Games/godot-screen-shake) | Screen shake along the hit, eased in, one per frame, shaken inside a hitstop, with a reduced motion switch | [Screen shake in games](https://cobomakesgames.com/blog/screen-shake-in-games/) |
 | [Hitstop](https://github.com/Cobo-Makes-Games/godot-hitstop) | Freeze only the fighters for a few frames on a hit, while the world keeps running | [How to make combat feel good](https://cobomakesgames.com/blog/how-to-make-combat-feel-good/) |
 | [Dash](https://github.com/Cobo-Makes-Games/godot-dash) | A 2D dash with a dodge window, charges that refill one at a time, buffered presses, afterimages and a charge meter | [How to make a dash feel good](https://cobomakesgames.com/blog/how-to-make-a-dash-feel-good/) |
+| [Damage Numbers](https://github.com/Cobo-Makes-Games/godot-damage-numbers) | Floating numbers that stay readable: combos tick one number up, colour by who was hurt, no overlaps | [Damage numbers in games](https://cobomakesgames.com/blog/damage-numbers/) |
 | [Frame Trace](https://github.com/Cobo-Makes-Games/godot-frame-trace) | Find what makes your game stutter, frame by frame | [Finding a stutter with a trace](https://cobomakesgames.com/blog/godot-stutter-frame-trace/) |
 
 Come and say hi on [Discord](https://discord.gg/y4K8zS436), or follow along on [YouTube](https://www.youtube.com/@CoboMakesGames) and [Bluesky](https://bsky.app/profile/cobomakesgames.bsky.social).
